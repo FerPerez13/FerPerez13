@@ -29,8 +29,10 @@ src="https://img.shields.io/twitter/follow/FerPerez13?logo=twitter&style=for-the
 
 <b>Microsoft Certificates</b>
 
-![microsoft-certified-fundamentals-badge](https://github.com/user-attachments/assets/51f454e4-af25-4953-a8e4-51f0c1d9ca41)
-![azure-ai-fundamentals-600x600](https://github.com/user-attachments/assets/8c105a3f-8af1-4e92-a44d-48ac069a884a)
+<div width="100%" align="center">
+  ![microsoft-certified-fundamentals-badge](https://github.com/user-attachments/assets/51f454e4-af25-4953-a8e4-51f0c1d9ca41)
+  ![azure-ai-fundamentals-600x600](https://github.com/user-attachments/assets/8c105a3f-8af1-4e92-a44d-48ac069a884a)
+</div>
 
 <b>My GitHub Stats</b>
 
