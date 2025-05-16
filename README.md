@@ -29,11 +29,6 @@ src="https://img.shields.io/twitter/follow/FerPerez13?logo=twitter&style=for-the
 
 <b>Microsoft Certificates</b>
 
-<div width="100%" align="center">
-  ![microsoft-certified-fundamentals-badge](https://github.com/user-attachments/assets/51f454e4-af25-4953-a8e4-51f0c1d9ca41)
-  ![azure-ai-fundamentals-600x600](https://github.com/user-attachments/assets/8c105a3f-8af1-4e92-a44d-48ac069a884a)
-</div>
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/FerPerez13"><img src="https://github-readme-stats.vercel.app/api?username=FerPerez13&show_icons=true&hide=prs,issues,contribs&title_color=14b8a6&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="FerPerez13's GitHub stats" /></a>
